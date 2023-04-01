@@ -1,0 +1,17 @@
+[13-Nov-2021 20:20:48 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[16-Nov-2021 17:35:47 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[16-Nov-2021 17:36:03 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[16-Nov-2021 17:36:34 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[25-Nov-2021 17:29:50 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[15-Dec-2021 09:55:20 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[15-Dec-2021 09:55:29 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[15-Dec-2021 09:57:26 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[15-Dec-2021 09:57:27 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
+[15-Dec-2021 10:21:56 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 30
+[15-Dec-2021 11:01:25 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 26
+[15-Dec-2021 11:03:37 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 26
+[15-Dec-2021 11:09:45 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 26
+[15-Dec-2021 11:11:54 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fancontr/public_html/api/index.php:1) in /home/fancontr/public_html/api/index.php on line 14
+[15-Dec-2021 11:11:54 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 38
+[15-Dec-2021 11:12:05 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fancontr/public_html/api/index.php:1) in /home/fancontr/public_html/api/index.php on line 14
+[15-Dec-2021 11:13:23 Asia/Tehran] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/fancontr/public_html/api/index.php on line 28
